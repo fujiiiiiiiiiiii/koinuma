@@ -1,4 +1,4 @@
-# koinuma
+# スケジュール帳ver0.1
 
 #実行環境  
 XAMPP
