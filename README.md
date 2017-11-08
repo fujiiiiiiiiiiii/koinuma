@@ -1,6 +1,6 @@
 # koinuma
 
-#実行環境
+#実行環境  
 XAMPP
 
 DB名:schedule  
